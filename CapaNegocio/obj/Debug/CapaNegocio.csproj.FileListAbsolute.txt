@@ -1,0 +1,9 @@
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\bin\Debug\Common.dll
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\bin\Debug\Common.pdb
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\cbertolani\Desktop\Evaluacion2\CapaPrincipal\CapaNegocio\obj\Debug\CapaNegocio.pdb

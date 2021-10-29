@@ -1,0 +1,22 @@
+﻿th, td {
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+}
+tbody {
+    width: 100%;
+}
+h4 
+{
+    text-align:center;
+}
+.centrado 
+{
+    margin-left:33%;
+}
+.txt-danger 
+{
+    color: Red;
+}
+
+
